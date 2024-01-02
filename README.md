@@ -1,16 +1,21 @@
-### Hi there 👋
+## About Me 🚀
 
-<!--
-**titanite07/titanite07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Tarun V, a passionate student on a journey of learning and exploration in the vast world of technology. Welcome to my GitHub repository, the hub of my coding adventures and academic pursuits.
 
-Here are some ideas to get you started:
+### Connect with Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [tarunbalajiv@gmail.com](mailto:tarunbalajiv@gmail.com)
+- 📷 Instagram: [@vbtarun07](https://www.instagram.com/vbtarun07/)
+
+### Areas of Study:
+
+- Currently pursuing B.Tech in Computer Science and Engineering (C.S.E) at VNR Vignana Jyothi Institute of Engineering & Technology
+
+### Current Focus:
+
+- Exploring Full Stack Web Development
+- Competitive Programming
+
+
+Feel free to explore my projects, share your thoughts, or let's collaborate on some exciting coding adventures! 🚀
+\
