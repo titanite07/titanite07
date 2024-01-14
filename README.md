@@ -9,7 +9,7 @@
 
 ### Areas of Study:
 
-- Currently pursuing B.Tech in Computer Science and Engineering (C.S.E) at VNR Vignana Jyothi Institute of Engineering & Technology
+- Currently pursuing B.Tech in Computer Science and Engineering (CSE) at VNR Vignana Jyothi Institute of Engineering & Technology
 
 ### Current Focus:
 
